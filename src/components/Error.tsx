@@ -1,12 +1,12 @@
 import React, { useEffect } from 'react';
-import { FC } from 'react';
+
 import classNames from 'classnames';
 
 type Props = {
   closeError: () => void;
   errorMessage: string;
 };
-export const Error: FC<Props> = ({ closeError, errorMessage }) => {
+export const Error: React.FC<Props> = ({ closeError, errorMessage }) => {
   useEffect(() => {
     const timeout = setTimeout(closeError, 3000);
 
