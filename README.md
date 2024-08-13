@@ -9,7 +9,7 @@ This project is a simple task management application (To-Do List) built with Rea
 - **SCSS**: For styling components.
 - **ESLint**: For code quality checks and error prevention.
 
-You can view the [demo version of the site](https://maricodec.github.io/todo-app-with-api/#/) 
+You can view the [demo version](https://maricodec.github.io/todo-app-with-api/#/) 
 
 ### Running the Project
 
