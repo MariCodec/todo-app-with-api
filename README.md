@@ -1,6 +1,6 @@
 # Todo Application
 
-This project is a simple task management application (To-Do List) built with React. The application uses an API to store and retrieve task data, allowing users to add, delete, and mark tasks as complete. It also includes functionality to toggle between completed and incomplete tasks and focuses on the task input field on each render.
+This project is a simple task management application (To-Do List) built with React. The application uses an **API** to store and retrieve task data, allowing users to add, delete, and mark tasks as complete. It also includes functionality to toggle between completed and incomplete tasks and focuses on the task input field on each render.
 
 ## Technologies Used
 
